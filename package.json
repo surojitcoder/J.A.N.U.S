@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
+    "fflate": "^0.8.3",
+    "lucide-react": "^1.75.0",
+    "next": "^16.4.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "tailwindcss": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.1"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
